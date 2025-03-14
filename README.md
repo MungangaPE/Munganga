@@ -12,7 +12,7 @@ Quer ajudar? Estamos organizando tudo, mas fique à vontade para dar sugestões 
 ## 👥 Equipe Munganga  
 A Munganga é construída por um time incrível de colaboradores! 🚀  
 
-[![Contribuidores](https://contrib.rocks/image?repo=Wictor0/Munganga)](https://github.com/Wictor0/Munganga/graphs/contributors)  
+[![Contribuidores](https://contrib.rocks/image?repo=MungangaPE/Munganga)](https://github.com/MungangaPE/Munganga/graphs/contributors)  
 
 ---  
 Desenvolvido com ❤️ por **Munganga Team** 💻  
